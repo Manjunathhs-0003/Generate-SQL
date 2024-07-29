@@ -22,7 +22,9 @@ export default function App() {
     });
 
     const data = await response.json();
-    return data.sqlQuery.trim();
+    console.log(data);
+    return data;
+    
   };
 
   return (
