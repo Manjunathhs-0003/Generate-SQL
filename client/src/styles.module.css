@@ -52,7 +52,7 @@
   padding: 16px 20px;
   border: 1px solid #10a37f;
   border-radius: 4px;
-  margin-bottom: 14px; 
+  margin-bottom: 16px; /* Reduced margin to fit both input and textarea */
   outline-color: #10a37f;
   font-size: 16px;
   width: 100%;
@@ -68,7 +68,7 @@
   font-size: 16px;
   width: 100%;
   box-sizing: border-box;
-  height: 130px;
+  height: 130px; /* Adjust height as needed */
 }
 
 .main ::placeholder {

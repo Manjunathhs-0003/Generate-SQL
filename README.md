@@ -8,7 +8,7 @@
         <li><strong>Interactive Interface</strong>: User-friendly interface with a clean design for ease of use.</li>
         <li><strong>Error Handling</strong>: Displays relevant error messages for invalid queries.</li>
     </ul>
-
+   <img src="docs/Project-ss.jpg" alt="Project screenshot">
    <h2 style="font-size: 22px; font-weight: bold;">Installation</h2>
 
   <h3 style="font-size: 20px; font-weight: bold;">Prerequisites</h3>
